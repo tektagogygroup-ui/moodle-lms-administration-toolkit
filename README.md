@@ -1,80 +1,51 @@
-# Moodle LMS Administration Toolkit
+# Moodle LMS Administration & Digital Learning Toolkit
 
-### Practical Resources for Moodle Administrators and E-learning Support Teams
+**By TEKTAGOGY Group | Digital Learning Support | Moodle Administration | Quality Assurance**
 
-Welcome to the Moodle LMS Administration Toolkit.
+## About This Repository
 
-This repository provides practical documentation, checklists, templates, and troubleshooting guides designed to support Moodle administrators, e-learning officers, lecturers, and educational institutions.
+This repository contains practical resources, checklists and guides designed to support Moodle LMS administration, lecturer capacity building, online assessment management and digital learning quality assurance.
 
-## 🎯 Project Objectives
+The resources demonstrate practical approaches to improving LMS operations and supporting effective teaching and learning.
 
-- Support effective Moodle LMS administration.
-- Improve lecturer onboarding and digital teaching support.
-- Promote consistent Moodle course management practices.
-- Strengthen online assessment management.
-- Support LMS quality assurance and continuous improvement.
-- Improve the delivery of digital learning services.
-
-## 📁 Repository Contents
-
-### 01. Moodle Administration
-- Moodle administration checklist
-- User management guidance
-- Course category management
-- Semester preparation procedures
-
-### 02. Lecturer Support
-- Lecturer onboarding checklist
-- Moodle course setup guide
-- Assignment configuration guidance
-- Online teaching support resources
-
-### 03. Course Quality Assurance
-- Moodle course quality checklist
-- Course readiness assessment
-- Digital learning quality review
-
-### 04. Troubleshooting Guides
-- Moodle login issues
-- Quiz configuration problems
-- Student enrolment challenges
-- Common LMS support issues
-
-### 05. Templates and Checklists
-- LMS support tracker
-- Course audit template
-- Semester readiness checklist
-
-## 👩‍💻 Professional Background
-
-Developed as a professional portfolio project drawing on practical experience in:
-
-- Moodle LMS administration and support
-- University lecturer training and support
-- Digital learning implementation
-- Online assessment management
-- Quality assurance and continuous improvement
-
-## 👥 Intended Users
+## Who Can Benefit?
 
 - Moodle administrators
-- E-learning officers
-- University ICT departments
-- Lecturers and academic staff
-- Digital learning specialists
+- E-learning and digital learning officers
+- University and college lecturers
+- Instructional designers
+- ICT support teams
 - Educational institutions
 
-## 🏢 Organisation
+## Available Resources
 
-TEKTAGOGY Group
+| Resource | Description |
+|---|---|
+| [Moodle Course Setup Checklist](moodle-course-setup-checklist.md) | Course configuration and readiness checks |
+| [Moodle Quiz Troubleshooting Guide](moodle-quiz-configuration-troubleshooting.md) | Common quiz configuration and attempt issues |
+| [Lecturer Moodle Onboarding Guide](lecturer-moodle-onboarding-guide.md) | Structured lecturer onboarding and support |
+| [ISO 9001-Informed LMS Quality Audit Checklist](iso-9001-lms-quality-audit-checklist.md) | Quality assurance and continual improvement |
 
-Website: https://tektagogygroup-ui.github.io/
+## Areas of Professional Practice
 
-GitHub: https://github.com/tektagogygroup-ui
+- Moodle LMS administration
+- Lecturer training and technical support
+- Online assessment configuration
+- Digital learning implementation
+- LMS quality assurance
+- Internal audit and process improvement
+- Instructional design support
+
+## About TEKTAGOGY Group
+
+TEKTAGOGY Group supports digital learning, educational technology implementation, LMS administration and institutional capacity building.
+
+## Professional Contact
+
+For professional collaboration, consultancy and digital learning support, connect through GitHub or visit:
+
+[TEKTAGOGY Group Website](https://tektagogygroup-ui.github.io/)
 
 ---
 
-**Author:** Damaris  
-**Location:** Kenya
-
-*Transforming Learning Through Technology.*
+*This repository contains sample professional resources for learning, demonstration and adaptation. Institutional policies and Moodle configurations should always guide actual implementation.*
