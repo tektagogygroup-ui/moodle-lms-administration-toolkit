@@ -25,6 +25,7 @@ The resources demonstrate practical approaches to improving LMS operations and s
 | [Moodle Quiz Troubleshooting Guide](moodle-quiz-configuration-troubleshooting.md) | Common quiz configuration and attempt issues |
 | [Lecturer Moodle Onboarding Guide](lecturer-moodle-onboarding-guide.md) | Structured lecturer onboarding and support |
 | [ISO 9001-Informed LMS Quality Audit Checklist](iso-9001-lms-quality-audit-checklist.md) | Quality assurance and continual improvement |
+| [Moodle Assessment Administration: Practical Demonstration](moodle-assessment-administration-demo.md) | Practical demonstration of assignment management, quiz configuration, grading and feedback |
 
 ## Areas of Professional Practice
 
